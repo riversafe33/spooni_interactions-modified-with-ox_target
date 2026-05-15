@@ -3,7 +3,7 @@ Config = {}
 Config.DevMode = false -- true or false
 Config.Locale = 'en' -- en, de, es
 
-Config.Framework = "vorp"   -- o "rsg"
+Config.Framework = "rsg"   -- "vorp" or "rsg"
 
 Config.Effects = {
     ['clean'] = function()
